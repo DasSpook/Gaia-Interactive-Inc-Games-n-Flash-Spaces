@@ -1,7 +1,7 @@
 Gaia Interactive - Source Code
 The source code to the following has been posted here:
  - Monster Galaxy
- - Monster Galaxy Exil
+ - Monster Galaxy Exile
  - Gaia On The Go
  - Gaiaonline Towns (Original version)
  - Gaiaonline Towns 2 (Second Version of Towns)
